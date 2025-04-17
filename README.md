@@ -24,6 +24,7 @@ It allows multiple clients to connect to a central server and chat with each oth
 
 ## How to Run
 
+![img.png](img.png)
 ### 1. Compile the code
 ```bash
 javac Server.java Client.java
@@ -60,3 +61,4 @@ You will be prompted to enter:
 ---
 
 This project was implemented as part of a distributed systems TP (travaux pratiques).
+
